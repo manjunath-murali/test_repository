@@ -1,2 +1,5 @@
 tree
 seed
+goat
+mutton
+chicken
